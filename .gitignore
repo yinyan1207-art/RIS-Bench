@@ -1,0 +1,19 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+slprj/
+*.slxc
+
+# 图表临时文件
+*.fig
+*.eps
+
+# LaTeX 临时文件 (如果你的代码和论文放在同一个大文件夹里)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
